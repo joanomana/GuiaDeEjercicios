@@ -7,3 +7,7 @@ Completa el mayor número de rondas de ejercicios en un tiempo determinado.
 - Mejora fuerza 
 - Mejora resistencia
 - Mejora la capacidad aerobica
+
+## Instrucciones 
+1. Selecciona 3-4 ejercicios
+2. Realiza tantas rondas como sea posible
