@@ -14,3 +14,7 @@ Actividades como correr, caminar rápido, saltar la cuerda o utilizar una máqui
 2. Realiza el ejercicio principal (como correr) durante 20-45 minutos a una intensidad moderada.
 3. Enfría con movimientos suaves y estiramientos durante 5-10 minutos.
 
+## Consejos
+- Usa calzado adecuado.
+- Mantén una postura correcta.
+- Hidrátate antes y después.
