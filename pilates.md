@@ -10,3 +10,7 @@ Ejercicio básico de pilates para fortalecer el core y mejorar la respiración.
 1. Acuéstate boca arriba con las piernas levantadas en ángulo recto.
 2. Bombea los brazos mientras inhalas y exhalas.
 3. Completa 100 movimientos de brazos.
+
+## Consejos
+- Manten el abdomen contraido
+- Evita arquear la espalda
