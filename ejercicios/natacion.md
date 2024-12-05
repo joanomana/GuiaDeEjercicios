@@ -11,3 +11,7 @@ Nadar utilizando brazadas alternas con patadas suaves.
 ## Instrucciones
 1. Manten el cuerpo horizontal en el agua
 2. Alterna las brazadas y acompañalas con patadas ritmicas
+
+## Consejos
+- Respira regularmente 
+- Usa gafas para proteger los ojos
