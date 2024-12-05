@@ -10,3 +10,7 @@ Pedalear durante un tiempo prolongado a ritmo constante.
 ## Instrucciones
 1. Ajusta el asiento y los pedales
 2. Pedalea durante 30-60 minutos a una intensidad moderada
+
+## Consejos
+- Usar equipo de seguridad 
+- Manten una postura comoda
